@@ -1,0 +1,41 @@
+/* Style the body */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White font color */
+    margin: 20px 20px 0; /* 20px top and sides, none on the bottom */
+  }
+
+  /* Style the h1 heading */
+  h1 {
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+  }
+
+  /* Style the h2 heading */
+  h2 {
+    font-size: 30px;
+    color: #0D0D0D; /* Dark gray font color */
+  }
+
+  /* Style the default paragraphs */
+  p {
+    font-size: 24px;
+    padding: 10px 10px 0 10px; /* 10px top and left */
+  }
+
+  /* Style the default images */
+  img {
+    width: 250px;
+    display: block; /* Center the image */
+    margin: 0 auto; /* Center the image horizontally */
+    border: 10px dashed #ffffff; /* White 10px dashed border */
+  }
+
+  /* Style the default div elements */
+  div {
+    min-height: 125px;
+    padding: 20px;
+    border: 3px solid #ffffff; /* 3px solid white border */
+  }
