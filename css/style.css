@@ -39,3 +39,71 @@ body {
     padding: 20px;
     border: 3px solid #ffffff; /* 3px solid white border */
   }
+
+  /* Style the introduction class */
+.introduction {
+  border-radius: 15px; /* Curved edges */
+  margin-top: 15px; /* 15px margin on the top */
+  line-height: 2; /* Double-spaced text */
+}
+
+/* Style the red class */
+.red {
+  background-color: #FF0000; /* Hexadecimal value for red */
+  text-align: right; /* Text aligned to the right */
+  margin-left: 50px; /* Left margin of 50px */
+  border-bottom: 2px solid #ffffff; /* 2px border on the bottom */
+  border-left: 5px solid #ffffff; /* 5px border on the left */
+}
+
+.blue {
+  background-color: #0000FF; /* Hexadecimal value for blue */
+  text-align: left; /* Text aligned to the left */
+  margin-right: 50px; /* Right margin of 50px */
+  border-top: 2px solid #ffffff; /* 2px border on the top */
+  border-right: 5px solid #ffffff; /* 5px border on the right */
+  color: #C4C4C4; /* Text color */
+}
+
+.blue h2 {
+  color: #C4C4C4; /* Text color */
+}
+
+.yellow {
+  background-color: #FFFF00; /* Hexadecimal value for yellow */
+  text-align: right; /* Text aligned to the right */
+  margin-left: 50px; /* Left margin of 50px */
+  border-bottom: 2px solid #ffffff; /* 2px border on the bottom */
+  border-left: 5px solid #ffffff; /* 5px border on the left */
+}
+
+/* Style the paragraph text color within the yellow class */
+.yellow p {
+  color: #707070; /* Text color */
+}
+
+.green {
+  background-color: #00EB00; /* Hexadecimal value for green */
+  text-align: left; /* Text aligned to the left */
+  margin-right: 50px; /* Right margin of 50px */
+  border-top: 2px solid #ffffff; /* 2px border on the top */
+  border-right: 5px solid #ffffff; /* 5px border on the right */
+}
+
+/* Style the default footer elements */
+footer {
+  background: linear-gradient(to bottom, #000000, #0000ff 25%, #0066ff 70%, #000000);
+  border: 5px solid #ffffff; /* 5px solid white border */
+  color: #ffffff; /* Text color (assuming you want white text) */
+  padding: 20px; /* Add padding as needed */
+}
+
+/* Style paragraphs within the footer */
+footer p {
+  font-size: 20px; /* 20px text size */
+  text-align: right; /* Text aligned to the right */
+  padding: 15px 15px 15px 0; /* 15px padding on top, right, and bottom (no padding on the left) */
+}
+
+
+
